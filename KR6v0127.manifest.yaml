@@ -1,0 +1,332 @@
+canonical_identifier: bkk:krp/KR6v0127/v1
+canonical_location: https://kanripo.org/bkk/KR6v0127/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 敦煌本《壇經》校釋疏義（第六章～第八章）
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/ZW/ZW12/ZW12n0100.xml
+    old_id: ZW12n0100
+  edition:
+    short: bkk
+editions:
+- short: 藏外
+  label: 藏外
+  source_xml_id: wit.orig
+- short: ZW
+assets:
+  parts:
+  - {seq: 1, filename: KR6v0127_001.yaml, hash: 'sha256:4f6b41ef31a342241ca4cce8c0ef9d91f66f5c623f4e880a48feeb5f733750ab'}
+  - {seq: 2, filename: KR6v0127_002.yaml, hash: 'sha256:cb02860b9260039dfef294e304606742dcfe2ae7a6f7e84efd13e5996ab4ea48'}
+  - {seq: 3, filename: KR6v0127_003.yaml, hash: 'sha256:1a883684e025738a047c11d3d3e0c6c30b2978055d942b549f602403f3d78867'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6v0127_001.markers.yaml, hash: 'sha256:965b54544e5d3e182024715c30b39bbe08d912b350a17966cce1cb17e24e9da4'}
+  - {seq: 2, role: markers, filename: assets/KR6v0127_002.markers.yaml, hash: 'sha256:757062cb288d14c86365f087b4d48060cb8a6cde7baed3a1c32cd2922c015eb4'}
+  - {seq: 3, role: markers, filename: assets/KR6v0127_003.markers.yaml, hash: 'sha256:e17092bb5230903e1bddbe1f1510488df79b7f9d51eac2aec197cfefe41320b6'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6v0127_ZW_001-juan-start
+    span:
+    - body
+    - 0
+    - 2480
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0127_ZW_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 第六章
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0127_ZW_001-mulu-2
+    span:
+    - body
+    - 26
+    - 26
+  label: 一、正文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0127_ZW_001-mulu-3
+    span:
+    - body
+    - 89
+    - 89
+  label: 二、校記並諸家錄校復議
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0127_ZW_001-mulu-4
+    span:
+    - body
+    - 587
+    - 587
+  label: 三、注釋
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0127_ZW_001-mulu-5
+    span:
+    - body
+    - 757
+    - 757
+  label: 四、分段標點復議
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0127_ZW_001-mulu-6
+    span:
+    - body
+    - 764
+    - 764
+  label: （一）分段、分句
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0127_ZW_001-mulu-7
+    span:
+    - body
+    - 1010
+    - 1010
+  label: （二）標點
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0127_ZW_001-mulu-8
+    span:
+    - body
+    - 1129
+    - 1129
+  label: 五、疏義
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0127_ZW_001-mulu-9
+    span:
+    - body
+    - 2273
+    - 2273
+  label: 六、原始資料
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0127_ZW_002-juan-start
+    span:
+    - body
+    - 0
+    - 6286
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0127_ZW_002-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 第七章
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0127_ZW_002-mulu-2
+    span:
+    - body
+    - 26
+    - 26
+  label: 一、正文
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0127_ZW_002-mulu-3
+    span:
+    - body
+    - 309
+    - 309
+  label: 二、校記並諸家錄校復議
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0127_ZW_002-mulu-4
+    span:
+    - body
+    - 3153
+    - 3153
+  label: 三、注釋
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0127_ZW_002-mulu-5
+    span:
+    - body
+    - 3455
+    - 3455
+  label: 四、分段標點復議
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0127_ZW_002-mulu-6
+    span:
+    - body
+    - 3462
+    - 3462
+  label: （一）分段
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0127_ZW_002-mulu-7
+    span:
+    - body
+    - 3649
+    - 3649
+  label: （二）分句及標點
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0127_ZW_002-mulu-8
+    span:
+    - body
+    - 4544
+    - 4544
+  label: 五、疏義
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0127_ZW_002-mulu-9
+    span:
+    - body
+    - 5415
+    - 5415
+  label: 六、原始資料
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0127_ZW_003-juan-start
+    span:
+    - body
+    - 0
+    - 11153
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0127_ZW_003-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 第八章
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0127_ZW_003-mulu-2
+    span:
+    - body
+    - 27
+    - 27
+  label: 一、正文
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0127_ZW_003-mulu-3
+    span:
+    - body
+    - 329
+    - 329
+  label: 二、校記並諸家錄校復議
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0127_ZW_003-mulu-4
+    span:
+    - body
+    - 2281
+    - 2281
+  label: 三、注釋
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0127_ZW_003-mulu-5
+    span:
+    - body
+    - 2744
+    - 2744
+  label: 四、分段標點復議
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0127_ZW_003-mulu-6
+    span:
+    - body
+    - 2751
+    - 2751
+  label: （一）分段
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0127_ZW_003-mulu-7
+    span:
+    - body
+    - 3354
+    - 3354
+  label: （二）分句及標點
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0127_ZW_003-mulu-8
+    span:
+    - body
+    - 6116
+    - 6116
+  label: 五、疏義
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0127_ZW_003-mulu-9
+    span:
+    - body
+    - 10228
+    - 10228
+  label: 六、原始資料
+  type: mulu
+  level: 1
+hash: sha256:ef8c3229ac3e332b00f86ad97bad0086e8e548f2152b1ccaaf6432627821a241
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
